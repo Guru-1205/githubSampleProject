@@ -3,5 +3,5 @@ public class Main {
         System.out.println("Hello, World!");
     }
 }
-// add ( kind of confirmation maari ) -> whichever changes nenga add panningalo athu matum github pogum
+// d ( kind of confirmation maari ) -> whichever changes nenga add panningalo athu matum github pogum
 // commit (whichever file change that was added before will be given to github as a single commit )
