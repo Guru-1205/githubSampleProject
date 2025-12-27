@@ -4,4 +4,4 @@ public class Main {
     }
 }
 // add ( kind of confirmation maari ) -> whichever changes nenga add panningalo athu matum github pogum
-// commit ( whichever file change that was added before will be given to github as a single commit )
+// commit (whichever file change that was added before will be given to github as a single commit )
