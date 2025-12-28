@@ -5,7 +5,8 @@ class A {
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        string s="hi";
+        string s="hello";
+        system.out.println(s);
     }
 }
 // d ( kind of confirmation maari ) -> whichever changes nenga add panningalo athu matum github pogum
