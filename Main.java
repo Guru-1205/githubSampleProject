@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello, World!");
         string s="hello";
         system.out.println(s);
+        string g="hello";
     }
 }
 // d ( kind of confirmation maari ) -> whichever changes nenga add panningalo athu matum github pogum
