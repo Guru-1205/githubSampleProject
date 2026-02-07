@@ -4,7 +4,7 @@ class A {
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hiiiii");
+        System.out.println("heyyy");
         string s="hell";
         system.out.println(s);
     }
